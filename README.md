@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard | Power BI
 
-![Sales Overview Dashboard](./dashboard-screenshot.png)
+![https://github.com/saeedullah-tech/Sales-Analysis/blob/77128454c321bb874fdfcef04e1579bd88cf5275/Sales%20Dashboard.png)
 
 ## 📊 Project Overview
 
