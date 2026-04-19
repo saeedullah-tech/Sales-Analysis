@@ -136,13 +136,7 @@ Profit Margin % = DIVIDE([CY Profit], [CY Sales], 0)
 📊 **Seasonal patterns visible** in monthly trend lines (Q4 spike likely holiday sales)  
 📈 **YoY growth varies by region** (East +21%, South -31% - critical variance)
 
-### Interview Talking Points:
 
-If discussing this project in an interview:
-
-> *"I built this dashboard to practice time intelligence in DAX. The most challenging part was ensuring the year-over-year calculations worked correctly with incomplete data periods. I used `SAMEPERIODLASTYEAR()` instead of manual date arithmetic to handle edge cases automatically."*
-
-> *"From a business perspective, this dashboard would immediately flag the South region's -31% decline. A sales manager would need to investigate: Are there staffing issues? Market changes? Competitor activity? The dashboard doesn't answer why, but it clearly shows where to focus attention."*
 
 ---
 
